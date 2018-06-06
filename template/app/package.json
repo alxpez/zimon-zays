@@ -1,0 +1,8 @@
+{
+  "android": {
+    "v8Flags": "--expose_gc"
+  },
+  "main": "app.js",
+  "name": "zimon-zays",
+  "version": "1.0.0"
+}
